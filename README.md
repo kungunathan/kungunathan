@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently completing my dgree dive into my chaotic specialiazations
 <!--
 **kungunathan/kungunathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
